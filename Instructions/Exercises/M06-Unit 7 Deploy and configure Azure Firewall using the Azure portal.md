@@ -80,7 +80,7 @@ In this task, you will create a single virtual network with two subnets.
 
 1. In the **Edit subnet** dialog box, change the name to **Workload-SN**.
 
-1. Change the **Subnet address range** to **10.0.2.0/24**.
+1. Change the **Starting address/Size** to **10.0.2.0/24**.
 
 1. Select **Add**.
 
