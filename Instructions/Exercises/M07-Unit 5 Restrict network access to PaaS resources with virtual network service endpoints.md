@@ -307,7 +307,7 @@ To test network access to a storage account, deploy a VM to each subnet.
 
 1. Return to the Azure portal.
 
-1. Navigate to your storage account, select **File shares** then select the **marketing** file share. 
+1. Navigate to your storage account, select **Classic file shares** then select the **marketing** file share. 
 
 1. Select **Browse** and notice the access denied error. Your error may look different.  Access is denied, because your computer is not in the Private subnet of the CoreServicesVNet virtual network.
 
